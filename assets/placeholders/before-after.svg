@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+  <title id="title">Before and after placeholder</title>
+  <desc id="desc">Premium placeholder for a before and after gallery.</desc>
+  <rect width="1000" height="620" fill="#f7efe4"/>
+  <rect x="70" y="80" width="390" height="460" fill="#fffaf3" stroke="#d9bf99"/>
+  <rect x="540" y="80" width="390" height="460" fill="#fffaf3" stroke="#d9bf99"/>
+  <circle cx="265" cy="226" r="64" fill="#d0ad7c" opacity=".52"/>
+  <circle cx="735" cy="226" r="64" fill="#d0ad7c" opacity=".52"/>
+  <path d="M158 420c42-95 171-95 214 0" fill="none" stroke="#b68b59" stroke-width="24" stroke-linecap="round" opacity=".34"/>
+  <path d="M628 420c42-95 171-95 214 0" fill="none" stroke="#b68b59" stroke-width="24" stroke-linecap="round" opacity=".5"/>
+  <text x="180" y="140" fill="#2e2a26" font-family="Georgia, serif" font-size="34" font-weight="700">Before</text>
+  <text x="660" y="140" fill="#2e2a26" font-family="Georgia, serif" font-size="34" font-weight="700">After</text>
+</svg>
