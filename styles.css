@@ -625,7 +625,6 @@ footer img {
     padding-right: 28px;
   }
 
-  .hero,
   .hero-copy,
   .hero-media,
   .mini-brand,
@@ -640,12 +639,13 @@ footer img {
 
   .hero-copy,
   .hero-media {
-    justify-self: center;
+    justify-self: start;
     max-width: 334px;
     width: 100%;
   }
 
   .hero {
+    max-width: none;
     padding-top: 28px;
     width: 100%;
   }
