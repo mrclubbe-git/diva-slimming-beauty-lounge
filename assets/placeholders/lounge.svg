@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Beauty lounge placeholder</title>
+  <desc id="desc">Interior lounge placeholder in warm neutral tones.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fbf5ed"/>
+      <stop offset="1" stop-color="#e8d8c3"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="620" fill="url(#g)"/>
+  <rect x="84" y="104" width="732" height="334" rx="6" fill="#fffaf2" stroke="#d9bf99"/>
+  <rect x="134" y="150" width="210" height="210" rx="105" fill="#f0e2cf" stroke="#cda978"/>
+  <rect x="400" y="158" width="310" height="36" rx="18" fill="#cda978" opacity=".48"/>
+  <rect x="400" y="222" width="246" height="18" rx="9" fill="#7d7165" opacity=".22"/>
+  <rect x="400" y="262" width="276" height="18" rx="9" fill="#7d7165" opacity=".18"/>
+  <rect x="120" y="474" width="660" height="34" rx="17" fill="#cda978" opacity=".35"/>
+  <text x="400" y="334" fill="#2e2a26" font-family="Georgia, serif" font-size="34" font-weight="700">Beauty Lounge</text>
+</svg>
