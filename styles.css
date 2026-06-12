@@ -511,6 +511,12 @@ textarea {
   z-index: 30;
 }
 
+.whatsapp svg {
+  fill: currentColor;
+  height: 32px;
+  width: 32px;
+}
+
 footer {
   align-items: center;
   background: #2b2723;
