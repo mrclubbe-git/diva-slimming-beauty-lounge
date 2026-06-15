@@ -1,25 +1,25 @@
 .site-footer {
   flex-wrap: wrap;
-  gap: 22px;
-  padding: 22px 28px;
+  gap: 20px;
+  padding: 18px 28px;
 }
 
 .footer-logo-badge {
   align-items: center;
   background: #fffaf2;
   border: 1px solid var(--gold);
-  border-radius: 16px;
-  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+  box-shadow: 0 10px 26px rgba(0, 0, 0, 0.2);
   display: inline-flex;
   justify-content: center;
-  padding: 7px 13px;
+  padding: 6px 12px;
 }
 
 .footer-brand-logo {
   display: block;
-  height: 62px;
+  height: 56px;
   overflow: hidden;
-  width: 124px;
+  width: 116px;
 }
 
 .footer-brand-logo image {
@@ -34,21 +34,21 @@
 }
 
 .whatsapp {
-  bottom: 88px;
+  bottom: 80px;
 }
 
 @media (max-width: 560px) {
   .site-footer {
-    gap: 16px;
-    padding: 20px 20px 32px;
+    gap: 14px;
+    padding: 18px 20px 28px;
   }
 
   .footer-brand-logo {
-    height: 58px;
-    width: 116px;
+    height: 54px;
+    width: 112px;
   }
 
   .whatsapp {
-    bottom: 88px;
+    bottom: 82px;
   }
 }
