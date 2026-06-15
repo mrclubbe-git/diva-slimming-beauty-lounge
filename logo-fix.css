@@ -11,6 +11,13 @@
   display: block;
   filter: none;
   mix-blend-mode: normal;
+  overflow: hidden;
+}
+
+svg.brand-logo image {
+  transform: scale(1.18);
+  transform-box: fill-box;
+  transform-origin: center;
 }
 
 .brand .brand-logo {
