@@ -2,9 +2,15 @@
 .mini-brand .brand-logo {
   background: transparent;
   mix-blend-mode: multiply;
+  filter: contrast(1.04) saturate(1.02);
 }
 
 .brand,
 .mini-brand {
   isolation: isolate;
+}
+
+footer .brand-logo {
+  mix-blend-mode: normal;
+  filter: none;
 }
