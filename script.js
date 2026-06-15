@@ -1,3 +1,17 @@
+const whatsappButton = document.querySelector(".whatsapp");
+
+if (whatsappButton) {
+  const whatsappNumber = "27843891586";
+  const whatsappMessage = encodeURIComponent(
+    "Hi Diva Slimming and Beauty Lounge, I would like to book a consultation."
+  );
+
+  whatsappButton.href = `https://wa.me/${whatsappNumber}?text=${whatsappMessage}`;
+  whatsappButton.target = "_blank";
+  whatsappButton.rel = "noopener";
+  whatsappButton.setAttribute("aria-label", "Contact Diva on WhatsApp");
+}
+
 const header = document.querySelector(".site-header");
 const toggle = document.querySelector(".menu-toggle");
 
