@@ -1,3 +1,9 @@
+const siteIcon = document.createElement("link");
+siteIcon.setAttribute("rel", "icon");
+siteIcon.setAttribute("type", "image/svg+xml");
+siteIcon.setAttribute("href", "assets/brand/favicon.svg?v=20260615-1");
+document.head.appendChild(siteIcon);
+
 const header = document.querySelector(".site-header");
 const toggle = document.querySelector(".menu-toggle");
 
