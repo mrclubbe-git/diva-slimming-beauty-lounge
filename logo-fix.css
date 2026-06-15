@@ -1,0 +1,10 @@
+.site-header .brand-logo,
+.mini-brand .brand-logo {
+  background: transparent;
+  mix-blend-mode: multiply;
+}
+
+.brand,
+.mini-brand {
+  isolation: isolate;
+}
