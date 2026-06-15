@@ -21,6 +21,8 @@ svg.brand-logo image {
 .brand .brand-logo {
   clip-path: inset(0 14px 0 14px);
   height: 52px;
+  transform: scale(1.28);
+  transform-origin: left center;
   width: 180px;
 }
 
